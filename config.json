@@ -1,0 +1,40 @@
+{
+    "matchType": {
+        "partyGender": {
+            "Match": 10,
+            "Mismatch": -5,
+            "Missing": 0,
+            "WeakMatch": 5
+        },
+        "partyID": {
+            "Match": 10,
+            "Mismatch": -5,
+            "Missing": 0,
+            "WeakMatch": 5
+        },
+        "countryOfResidence": {
+            "Match": 10,
+            "Mismatch": -5,
+            "Missing": 0,
+            "WeakMatch": 5
+        },
+        "idNationality": {
+            "Match": 10,
+            "Mismatch": -5,
+            "Missing": 0,
+            "WeakMatch": 5
+        },
+        "partyAlias": {
+            "Match": 10,
+            "Mismatch": -5,
+            "Missing": 0,
+            "WeakMatch": 5
+        },
+        "partyDOB": {
+            "Match": 10,
+            "Mismatch": -5,
+            "Missing": 0,
+            "WeakMatch": 5
+        }
+    }
+}
